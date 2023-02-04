@@ -3,5 +3,5 @@
 </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img1.wallspic.com/attachments/originals/5/9/3/3/6/163395-python-data_2019_survey-standing-data_science-big_data-3840x2160.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <div>
