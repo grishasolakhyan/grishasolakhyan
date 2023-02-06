@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="planet.gif"/>
+  <img src="cheesburger.gif"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
