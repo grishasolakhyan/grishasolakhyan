@@ -5,7 +5,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer
+I am a beginner developer :student:
 
 ---
 
