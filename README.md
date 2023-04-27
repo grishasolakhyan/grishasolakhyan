@@ -7,7 +7,7 @@
 ### :man_technologist: About Me :
 I am a beginner developer :student:
 
-- :desktop_computer:	I love to develop window applications
+- :desktop_computer:	I like to develop window applications
 
 - :chart_with_upwards_trend:	Interested in data analytics and mathematics
 
