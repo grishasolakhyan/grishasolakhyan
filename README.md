@@ -7,6 +7,12 @@
 ### :man_technologist: About Me :
 I am a beginner developer :student:
 
+- :desktop_computer:	I love to develop window applications
+
+- :chart_with_upwards_trend:	Interested in data analytics and mathematics
+
+- :climbing_man:	I wish to learn and develop in the field of data analytics and use my potential to advance
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
