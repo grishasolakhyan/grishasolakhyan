@@ -5,11 +5,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a beginner developer :student:
+Hi, my name is Grisha and I'm a developer :wave:
 
-- :desktop_computer:	I like to develop window applications
-
-- :chart_with_upwards_trend:	Interested in data analytics and mathematics
+- :desktop_computer:	I'm interested in developing window applications and parsers
 
 - :climbing_man:	I wish to learn and develop in the field of data analytics and use my potential to advance
 
